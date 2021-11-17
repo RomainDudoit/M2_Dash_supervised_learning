@@ -1,0 +1,15 @@
+Fiche récapitulatif 
+
+utilisateur peut importer des jeux de données 
+affichage du jeux de données + quelque analyse prédictive 
+utilisateur doit définir les variables prédictives et cible 
+en fonction du type de variable proposé des méthodes analyse 
+codé 3 méthodes de régression (numérique)
+codé 3 méthodes de classification (catégoriel) 
+utilisateur pourra choisir 1 ou plusieur algo et les valeurs optimale des hyperparametre pourront etre soit défini 
+par utilisateur soit définie en fonction des données 
+pour chaque modèle doit utilisé une validation croisé 
+fourni en sortie le métrique évaluation 
+temps de calcul
+et affichage graphique pour voir les différent prédiction et la réalisté
+doit utilisé dash ou bokeh 
